@@ -35,7 +35,7 @@ p {
     border-radius: 10px;
 }
 #header {   
-    background-image: url("images/backgroundIMG.png");
+    background-image: url("images/img.png");
     background-size: cover;
 }
 #header img {
